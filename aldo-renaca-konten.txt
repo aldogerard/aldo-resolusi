@@ -1,0 +1,6 @@
+RENCANA KONTEN ALDO
+
+-Javascript
+-PHP Frameworks
+- Interview
+- Vlogs
