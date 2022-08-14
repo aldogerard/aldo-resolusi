@@ -3,9 +3,11 @@ RENCANA KONTEN ALDO
 -Javascript
   * ES6
   * Frameworks Javascript
-    ^ Angular
-    ^ React
--PHP Frameworks
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
+- PHP Frameworks
  ^ Laravel
 - Interview
 - Vlogs
+- Python
