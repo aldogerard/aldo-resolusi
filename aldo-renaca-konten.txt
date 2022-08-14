@@ -3,7 +3,10 @@ RENCANA KONTEN ALDO
 -Javascript
   * ES6
   * Frameworks Javascript
+   ^ Vue
 - Struktur Data Dasar
--PHP Frameworks
+- PHP Frameworks
+ ^ Laravel
 - Interview
 - Vlogs
+- Python
